@@ -6,7 +6,7 @@ class Utils:
     def __init__(self, system, bot, me):
         self.S = system
         self.B = bot
-        self.d_len = 20
+        self.d_len = 50
         self.l_len = 50
         self.me = me
 
